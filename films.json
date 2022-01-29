@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Orb of the First",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/930691005257252864/SP1.png",
+    "description": "Given to OGs - discord and twitter winners",
+    "release_date": "0001"
+  },
+  {
+    "title": "Orb of the Helpful",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/931553566022336512/SP2.png",
+    "description": "Only granted by the MODS to those active & helpful in our server’s community",
+    "release_date": "0002"
+  },
+  {
+    "title": "Orb of Community",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/931892129972768818/sneak3.png",
+    "description": "This orb shall be granted to our most loyal followers on social media. This orb will be given away though our social media events in the future",
+    "release_date": "0003"
+  },
+  {
+    "title": "Orb of Creation",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/932184974499643463/woman_shrine_maiden_NFT.png",
+    "description": "Showcase of skills through art, music, writing, memes, etc. Everyone will have a chance to showcase their talents once we open up the floor for submissions",
+    "release_date": "0004"
+  },
+  {
+    "title": "Orb of Intelligence",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/933350459010347009/man_withGun_NFT.jpg",
+    "description": "Quizzes will be dropped randomly! Orb will be granted to the first few who answered correctly",
+    "release_date": "0005"
+  },
+  {
+    "title": "Orb of Strength",
+    "image": "https://cdn.discordapp.com/attachments/922216370576433192/934756683719270430/SP6.png",
+    "description": "Invite at least 7 people type /invites on 🤖︰bot-commands and wait for your role",
+    "release_date": "0006"
+  },
+  {
+    "title": "Orb of Stone",
+    "image": "https://images.squarespace-cdn.com/content/v1/61c92eb528f8e3395a377039/20a41ae5-acc3-4eea-8530-5aeee822d0f6/woman_princesswithmask_eyesclosed_NFT.png",
+    "description": "Given to blue-chip projects",
+    "release_date": "0007"
+  },
+  {
+    "title": "Orb of Ascension",
+    "image": "https://images.squarespace-cdn.com/content/v1/61c92eb528f8e3395a377039/20a41ae5-acc3-4eea-8530-5aeee822d0f6/woman_princesswithmask_eyesclosed_NFT.png",
+    "description": "Whitelisted",
+    "release_date": "0008"
+  },
+  {
+    "title": "Orb of Prosperity",
+    "image": "https://images.squarespace-cdn.com/content/v1/61c92eb528f8e3395a377039/20a41ae5-acc3-4eea-8530-5aeee822d0f6/woman_princesswithmask_eyesclosed_NFT.png",
+    "description": "Given to 1st 300 who completes all missions Can be used to swap with any orb (Except Orb of Ascension)",
+    "release_date": "0009"
+  }
+]
